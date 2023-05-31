@@ -27,7 +27,7 @@
 
 ---
 
-I am a Full Stack (MERN) Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indiana. I am an insufferable optimist and I love life. I study and learn every day and I strive to be better tomorrow than I was today.
+I am a Full Stack (MERN) Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indiana. I am an insufferable optimist and I love life. I study and learn every day and I strive to be better today than I was yesterday, and better still tomorrow.
 
 - 🔭 I’m working as a Web Development Education Apprentice for [The Last Mile](https://thelastmile.org/) and as a student taking courses on [Udemy](https://www.udemy.com/) and [Frontend Masters](https://frontendmasters.com/).
 
