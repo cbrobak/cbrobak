@@ -27,13 +27,13 @@
 
 ---
 
-I am a Full Stack (MERN) Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indiana. I am an insufferable optimist and I love life. I study and learn every day and I strive to be better today than I was yesterday, and better still tomorrow.
+My name is Jacob, and I am working hard to become a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I'm from a small town in Indiana. I am an insufferable optimist and I love life. I like to study and I seek to learn something new every day. I strive to be better today than I was yesterday, and better still tomorrow.
 
-- 🔭 I’m working as a Web Development Education Apprentice for [The Last Mile](https://thelastmile.org/) and as a student taking courses on [Udemy](https://www.udemy.com/), [Frontend Masters](https://frontendmasters.com/), and i'm enrolled in the React course for [Code the Dream](https://codethedream.org/).
+- 🔭 I’m working as a forklift driver currently, because it pays the bills, and I'm a student taking courses on [Udemy](https://www.udemy.com/), [Frontend Masters](https://frontendmasters.com/), and on [LinkedIn Learning](https://www.linkedin.com/learning/?trk=nav_neptune_learning&).
 
-- 🌱 Exploring database technologies and all things Personal Development.
+- 🌱 I love learning, so I can be my best self, and working everyday to build the life of my dreams.
 
-- ⚡ In my free time, I solve problems on GeeksforGeeks, LeetCode, and read books to become a better person overall and inprove my station in life.
+- ⚡ In my free time, I enjoy solving problems on [GeeksforGeeks](https://www.geeksforgeeks.org/explore?page=1&sortBy=submissions) and [LeetCode](https://leetcode.com/problemset/), read personal development and self help books to become a better person overall and inprove my station in life, and spending time with my lovely wife and my two granddaughters, who are my lifes greatest joy.
 
 - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacob-robak/)
 
@@ -51,3 +51,5 @@ I am a Full Stack (MERN) Developer <img src="https://media.giphy.com/media/WUlpl
 - [MONGODB](https://www.mongodb.com/)
 - [REACT](https://devdocs.io/react/)
 - [RUBY ON RAILS](https://rubyonrails.org/)
+
+- As a note, while I can read and write in all of these languages I will not claim proficiency in any of them exactly. I can always improve, and good enough never really is.
