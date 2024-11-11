@@ -27,7 +27,7 @@
 
 ---
 
-My name is Jacob, and I am working hard to become a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I'm from a small town in Indiana. I am an insufferable optimist and I love life. I like to study and I seek to learn something new every day. I strive to be better today than I was yesterday, and better still tomorrow.
+My name is Jacob, aka Cowboy, and I am working hard to become a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. I'm from a small town in Indiana. I am an insufferable optimist and I love life. I like to study and I seek to learn something new every day. I strive to be better today than I was yesterday, and better still tomorrow.
 
 - 🔭 I’m working as a forklift driver currently, because it pays the bills, and I'm a student taking courses on [Udemy](https://www.udemy.com/), [Frontend Masters](https://frontendmasters.com/), and on [LinkedIn Learning](https://www.linkedin.com/learning/?trk=nav_neptune_learning&).
 
